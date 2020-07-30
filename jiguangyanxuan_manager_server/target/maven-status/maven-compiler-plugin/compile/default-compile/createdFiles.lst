@@ -1,0 +1,9 @@
+com\it\yanxuan\manager\controller\GoodsInfoController.class
+com\it\yanxuan\manager\controller\SellerController.class
+com\it\yanxuan\manager\controller\GoodsCategoryController.class
+com\it\yanxuan\ad\controller\AdInfoController.class
+com\it\yanxuan\ad\controller\UploadFileController.class
+com\it\yanxuan\ad\controller\AdTypeController.class
+com\it\yanxuan\manager\controller\GoodsBrandController.class
+com\it\yanxuan\manager\controller\GoodsSpecController.class
+com\it\yanxuan\manager\controller\LoginUserController.class

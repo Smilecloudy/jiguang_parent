@@ -1,0 +1,6 @@
+com\it\yanxuan\goods\service\GoodsBrandServiceImpl.class
+com\it\yanxuan\seller\service\SellerInfoServiceImpl.class
+com\it\yanxuan\goods\service\GoodsCategoryServiceImpl.class
+com\it\yanxuan\goods\service\GoodsInfoServiceImpl.class
+com\it\yanxuan\goods\service\GoodsSpecServiceImpl.class
+com\it\yanxuan\seller\service\AccountServiceImpl.class

@@ -1,0 +1,4 @@
+GET http://localhost:9904/search?keywords=%E5%B0%8F%E7%B1%B3
+Accept: application/json
+
+###

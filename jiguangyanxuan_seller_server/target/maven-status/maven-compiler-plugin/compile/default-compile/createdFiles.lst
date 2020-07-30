@@ -1,0 +1,5 @@
+com\it\yanxuan\seller\service\UserDetailsServiceImpl.class
+com\it\yanxuan\seller\controller\CategoryController.class
+com\it\yanxuan\seller\controller\SellerController.class
+com\it\yanxuan\seller\controller\GoodsController.class
+com\it\yanxuan\seller\controller\UploadFileController.class

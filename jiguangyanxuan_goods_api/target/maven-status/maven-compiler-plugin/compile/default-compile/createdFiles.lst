@@ -1,0 +1,6 @@
+com\it\yanxuan\goods\api\IGoodsCategoryService.class
+com\it\yanxuan\seller\api\ISellerInfoService.class
+com\it\yanxuan\goods\api\IGoodsInfoService.class
+com\it\yanxuan\goods\api\IGoodsSpecService.class
+com\it\yanxuan\seller\api\IAccountService.class
+com\it\yanxuan\goods\api\IGoodsBrandService.class

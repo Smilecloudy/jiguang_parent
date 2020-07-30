@@ -1,0 +1,119 @@
+GET http://localhost:9904/search?keywords=小米
+Accept: application/json
+
+<> 2020-07-21T085536.200.json
+
+###
+
+GET http://localhost:9902/category?parentId=0
+Accept: application/json
+
+<> 2020-07-08T044318.200.json
+
+###
+
+GET http://localhost:9901/category?parentId=0
+Accept: application/json
+
+<> 2020-07-08T044305.200.html
+
+###
+
+GET http://localhost:9902/category?parentId=0
+Accept: application/json
+
+<> 2020-07-08T044256.200.json
+
+###
+
+GET http://localhost:9902/category?currentPage=1&pageSize=50&parentId=0
+Accept: application/json
+
+<> 2020-07-08T044020.200.json
+
+###
+
+GET http://localhost:9902/category?currentPage=1&pageSize=&parentId=0
+Accept: application/json
+
+<> 2020-07-08T043025.500.html
+
+###
+
+GET http://localhost:9902/category?currentPage=1&pageSize=&parentId=0
+Accept: application/json
+
+<> 2020-07-08T042735.500.html
+
+###
+
+GET http://localhost:9902/category?currentPage=1&pageSize=&parentId=0
+Accept: application/json
+
+<> 2020-07-08T042610.200.html
+
+###
+
+GET http://localhost:9902/category?parentId=0
+Accept: application/json
+
+<> 2020-07-08T041531.200.html
+
+###
+
+GET http://localhost:9902/category
+Accept: application/json
+
+<> 2020-07-08T034509.200.html
+
+###
+
+GET http://localhost:9901/category?currentPage=1&pageSize=10&parentId=670&name=
+Accept: application/json
+
+<> 2020-06-28T024956.200.json
+
+###
+
+GET http://localhost:9901/category?currentPage=1&pageSize=10&name=
+Accept: application/json
+
+<> 2020-06-28T112835.200.json
+
+###
+
+GET http://localhost:9901/category?currentPage=1&pageSize=10
+Accept: application/json
+
+<> 2020-06-28T112739.200.json
+
+###
+
+GET http://localhost:9901/spec?currentPage=1&pageSize=10
+Accept: application/json
+
+<> 2020-06-27T010750.200.json
+
+###
+
+GET http://localhost:9901/brand/query
+Accept: application/json
+
+<> 2020-06-26T041257.500.html
+
+###
+
+GET http://localhost:9901/brand/query
+Accept: application/json
+
+<> 2020-06-26T041219.500.html
+
+###
+
+GET http://localhost:9901/brand/query
+Accept: application/json
+
+<> 2020-06-26T041021.500.html
+
+###
+

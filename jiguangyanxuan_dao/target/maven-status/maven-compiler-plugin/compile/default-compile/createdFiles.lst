@@ -1,0 +1,17 @@
+com\it\yanxuan\mapper\AccountMapper.class
+com\it\yanxuan\mapper\SellerShopMapper.class
+com\it\yanxuan\mapper\GoodsSpuMapper.class
+com\it\yanxuan\mapper\AdTypeMapper.class
+com\it\yanxuan\mapper\OrderGoodsMapper.class
+com\it\yanxuan\mapper\AccountAddressMapper.class
+com\it\yanxuan\mapper\GoodsSkuMapper.class
+com\it\yanxuan\mapper\GoodsCategoryBrandSpecMapper.class
+com\it\yanxuan\mapper\SecondKillOrderMapper.class
+com\it\yanxuan\mapper\OrderInfoMapper.class
+com\it\yanxuan\mapper\SecondKillGoodsMapper.class
+com\it\yanxuan\mapper\GoodsSpecMapper.class
+com\it\yanxuan\mapper\GoodsCategoryMapper.class
+com\it\yanxuan\mapper\AdInfoMapper.class
+com\it\yanxuan\mapper\GoodsBrandMapper.class
+com\it\yanxuan\mapper\GoodsSpecOptionMapper.class
+com\it\yanxuan\mapper\PayLogMapper.class

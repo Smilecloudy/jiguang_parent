@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:solr="http://www.springframework.org/schema/data/solr" xmlns:tx="http://www.springframework.org/schema/tx"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/data/solr http://www.springframework.org/schema/data/solr/spring-solr.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd">
+
+    <!--Solr Client-->
+    <solr:solr-client url="http://localhost:8080/solr" id="solrClient"/>
+    <!--SolrTemplate-->
+    <bean class="org.springframework.data.solr.core.SolrTemplate" id="solrTemplate">
+        <constructor-arg name="core" value="goods"/>
+        <constructor-arg name="solrClient" ref="solrClient"/>
+        <property name="solrConverter" ref="mappingSolrConverter"/>
+    </bean>
+
+    <!--Open transaction statement-->
+    <tx:annotation-driven transaction-manager="transactionManager"/>
+
+    <!--Transaction management-->
+    <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <property name="dataSource" ref="dataSource"/>
+    </bean>
+
+    <!--批量导入solr-->
+    <bean class="com.it.yanxuan.solr.GoodsImportService" id="goodsImportService"/>
+
+    <!--CustomConversions-->
+    <bean id="customConversions" class="org.springframework.data.solr.core.convert.CustomConversions">
+        <constructor-arg name="converters">
+            <list>
+                <bean class="com.it.yanxuan.converter.CustomConverter"/>
+            </list>
+        </constructor-arg>
+    </bean>
+
+    <!--MappingSolrConverter-->
+    <bean class="org.springframework.data.solr.core.convert.MappingSolrConverter" id="mappingSolrConverter">
+        <constructor-arg name="mappingContext">
+            <bean class="org.springframework.data.solr.core.mapping.SimpleSolrMappingContext"/>
+        </constructor-arg>
+        <property name="customConversions" ref="customConversions"/>
+     </bean>
+
+</beans>

@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [30/Jul/2020:14:38:06 +0800] "GET /goods_search.html HTTP/1.1" 200 17222 http-bio-9904-exec-2 20
+0:0:0:0:0:0:0:1 - - [30/Jul/2020:14:38:06 +0800] "GET /%7B%7Bdata.picUrl[0]%7D%7D HTTP/1.1" 404 1003 http-bio-9904-exec-2 5
+0:0:0:0:0:0:0:1 - - [30/Jul/2020:14:38:06 +0800] "GET /js/custom/app.module.js HTTP/1.1" 304 - http-bio-9904-exec-5 8
+0:0:0:0:0:0:0:1 - - [30/Jul/2020:14:38:06 +0800] "GET /js/custom/app.service.js HTTP/1.1" 304 - http-bio-9904-exec-5 3
+0:0:0:0:0:0:0:1 - - [30/Jul/2020:14:38:06 +0800] "GET /js/custom/app.controller.js HTTP/1.1" 200 769 http-bio-9904-exec-2 4
+0:0:0:0:0:0:0:1 - - [30/Jul/2020:14:38:12 +0800] "GET /search?keywords=%E5%8D%8E%E4%B8%BA HTTP/1.1" 200 8852 http-bio-9904-exec-2 623

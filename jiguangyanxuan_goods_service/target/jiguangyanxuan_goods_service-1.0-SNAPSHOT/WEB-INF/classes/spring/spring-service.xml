@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+<!--事务管理transactionManager-->
+    <bean class="org.springframework.jdbc.datasource.DataSourceTransactionManager" id="transactionManager">
+        <property name="dataSource" ref="dataSource"/>
+    </bean>
+<!--开启声明事务-->
+<!--    <tx:annotation-driven transaction-manager="transactionManager"/>-->
+<!--dubbo-->
+    <dubbo:protocol name="dubbo" port="20881"/>
+    <dubbo:registry address="zookeeper://47.102.211.76:2181" timeout="50000"/>
+    <dubbo:application name="jiguangyanxuan_goods_service"/>
+    <!--<dubbo:annotation package="com.it.yanxuan.goods.service"/>-->
+    <!--因为我要写商家入驻的接口实现类，所以包扫描改成下面这个-->
+    <dubbo:annotation package="com.it.yanxuan"/>
+</beans>

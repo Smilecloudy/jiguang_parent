@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5575a413-2f76-4c34-9ef5-3c36c27f52b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="spring-beans.schema" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="HTTP Request" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven_repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dhbbncGzzCbz2UpTsNEJCOSWcn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="MyBatisLogPluginindexNum" value="1101" />
+    <property name="MyBatisLogPluginparameters" value="Parameters:" />
+    <property name="MyBatisLogPluginpreparing" value="Preparing:" />
+    <property name="MyBatisLogPluginrunning" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jiguangyanxuan_search_server/src/main/webapp/js/custom" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\com_it\jiguangyanxuan_parent\jiguangyanxuan_search_server\src\main\webapp\js\custom" />
+      <recent name="C:\com_it\jiguangyanxuan_parent\jiguangyanxuan_search_service\src\main\resources\spring" />
+      <recent name="C:\com_it\jiguangyanxuan_parent\jiguangyanxuan_ad_service\src\main\resources" />
+      <recent name="C:\com_it\jiguangyanxuan_parent\jiguangyanxuan_search_service\src\main" />
+      <recent name="C:\com_it\jiguangyanxuan_parent\jiguangyanxuan_search_server\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.it.yanxuan.ad.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\com_it\jiguangyanxuan_parent\jiguangyanxuan_ad_service\src\main\resources" />
+      <recent name="C:\com_it\jiguangyanxuan_parent\jiguangyanxuan_ad_service\src\main\resources\properties" />
+      <recent name="C:\com_it\jiguangyanxuan_parent\jiguangyanxuan_goods_import\src\main\resources\spring" />
+      <recent name="C:\com_it\jiguangyanxuan_parent\jiguangyanxuan_seller_server\src\main\webapp" />
+      <recent name="C:\com_it\jiguangyanxuan_parent\jiguangyanxuan_dao\src\main\resources\properties" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/" />
+                <option name="value" value="CF930C2D2F77C1376FA8292D58512623" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:9904/search" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="keywords" />
+                <option name="value" value="小米" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/" />
+                <option name="value" value="CF930C2D2F77C1376FA8292D58512623" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:9902/category" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="parentId" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/" />
+                <option name="value" value="30FAE9ABF158D23513D77D6D708A3E6E" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:9901/category" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="parentId" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/" />
+                <option name="value" value="30FAE9ABF158D23513D77D6D708A3E6E" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:9902/category" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="parentId" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/" />
+                <option name="value" value="30FAE9ABF158D23513D77D6D708A3E6E" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:9902/category" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="currentPage" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="50" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="parentId" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/" />
+                <option name="value" value="30FAE9ABF158D23513D77D6D708A3E6E" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:9902/category" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="currentPage" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="parentId" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/" />
+                <option name="value" value="D3083F5E840E00F533301DEB360114A5" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:9902/category" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="currentPage" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="parentId" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/" />
+                <option name="value" value="1BD1948FA3C4817948EFD52B1589AEDF" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:9902/category" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="parentId" />
+                <option name="value" value="0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:9902/category" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:9901/category" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="currentPage" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="parentId" />
+                <option name="value" value="670" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:9901/category" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="currentPage" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:9901/category" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="currentPage" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:9901/spec" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="currentPage" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:9901/brand/query" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.search_server:9904">
+    <configuration name="FastDFSClientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.it.yanxuan.test.FastDFSClientTest" />
+      <module name="jiguangyanxuan_seller_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.yanxuan.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsImportServiceTest.testImport" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jiguangyanxuan_goods_import" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.yanxuan.solr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.it.yanxuan.solr" />
+      <option name="MAIN_CLASS_NAME" value="com.it.yanxuan.solr.GoodsImportServiceTest" />
+      <option name="METHOD_NAME" value="testImport" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolrHighLightTest.testHLQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jiguangyanxuan_search_service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.yanxuan.search.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.it.yanxuan.search.test" />
+      <option name="MAIN_CLASS_NAME" value="com.it.yanxuan.search.test.SolrHighLightTest" />
+      <option name="METHOD_NAME" value="testHLQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jiguangyanxuan_common" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ad_service:8802" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/jiguangyanxuan_ad_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="goods_service:8801" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/jiguangyanxuan_goods_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="manager_server:9901" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/jiguangyanxuan_manager_server" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="portal_server:9903" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/jiguangyanxuan_portal_server" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="search_server:9904" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/jiguangyanxuan_search_server" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="search_service:8803" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/jiguangyanxuan_search_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="seller_server:9902" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/jiguangyanxuan_seller_server" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.FastDFSClientTest" />
+      <item itemvalue="JUnit.GoodsImportServiceTest.testImport" />
+      <item itemvalue="JUnit.Solution.test" />
+      <item itemvalue="JUnit.SolrHighLightTest.testHLQuery" />
+      <item itemvalue="Maven.ad_service:8802" />
+      <item itemvalue="Maven.goods_service:8801" />
+      <item itemvalue="Maven.manager_server:9901" />
+      <item itemvalue="Maven.portal_server:9903" />
+      <item itemvalue="Maven.search_server:9904" />
+      <item itemvalue="Maven.search_service:8803" />
+      <item itemvalue="Maven.seller_server:9902" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SolrHighLightTest.testHLQuery" />
+        <item itemvalue="JUnit.GoodsImportServiceTest.testImport" />
+        <item itemvalue="JUnit.Solution.test" />
+        <item itemvalue="Application.FastDFSClientTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.38418078" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_ANONYMOUS,SHOW_INTERFACES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5575a413-2f76-4c34-9ef5-3c36c27f52b8" name="Default Changelist" comment="" />
+      <created>1592880345571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592880345571</updated>
+      <workItem from="1592880348430" duration="69049000" />
+      <workItem from="1593149548836" duration="19887000" />
+      <workItem from="1593227128075" duration="21390000" />
+      <workItem from="1593308102169" duration="15235000" />
+      <workItem from="1593331653367" duration="22201000" />
+      <workItem from="1593489516391" duration="196000" />
+      <workItem from="1593489733381" duration="57000" />
+      <workItem from="1593489810852" duration="12036000" />
+      <workItem from="1593524986389" duration="3751000" />
+      <workItem from="1593567418199" duration="12806000" />
+      <workItem from="1594095066867" duration="44855000" />
+      <workItem from="1594264743733" duration="18918000" />
+      <workItem from="1594387911900" duration="15705000" />
+      <workItem from="1594610894452" duration="52182000" />
+      <workItem from="1594967717361" duration="19847000" />
+      <workItem from="1595054395310" duration="16459000" />
+      <workItem from="1595168951781" duration="32897000" />
+      <workItem from="1595402353941" duration="23819000" />
+      <workItem from="1595675316470" duration="4372000" />
+      <workItem from="1596004832694" duration="17915000" />
+      <workItem from="1596112243969" duration="298000" />
+    </task>
+    <task id="LOCAL-00001" summary="2020-7-30 20:31 提交了一次jiguangyanxuan_parent">
+      <created>1596112358750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596112358750</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2020-7-30 20:31 提交了一次jiguangyanxuan_parent" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-7-30 20:31 提交了一次jiguangyanxuan_parent" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="100" key="#Inspections" timestamp="1592882329540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="100" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1592882329540" />
+    <state x="452" y="100" key="#Notifications" timestamp="1593233434819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="100" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1593233434819" />
+    <state x="452" y="100" key="#Project_Structure" timestamp="1595573101229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="100" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1595573101229" />
+    <state x="452" y="103" key="#VisualVM_Launcher" timestamp="1594197735399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="103" key="#VisualVM_Launcher/0.0.1920.1040@0.0.1920.1040" timestamp="1594197735399" />
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595402392518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595402392518" />
+    <state x="715" y="361" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1595402475858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="361" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595402475858" />
+    <state x="721" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1595573439591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="164" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595573439591" />
+    <state x="615" y="410" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1593584062252">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="615" y="410" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1920.1040@0.0.1920.1040" timestamp="1593584062252" />
+    <state x="627" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592984445728">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592984445728" />
+    <state x="625" y="198" key="#jiguangyanxuan_ad_service_[tomcat7:run]" timestamp="1595237060557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="198" key="#jiguangyanxuan_ad_service_[tomcat7:run]/0.0.1920.1040@0.0.1920.1040" timestamp="1595237060557" />
+    <state x="625" y="198" key="#jiguangyanxuan_goods_service_[tomcat7:run]" timestamp="1595237021364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="198" key="#jiguangyanxuan_goods_service_[tomcat7:run]/0.0.1920.1040@0.0.1920.1040" timestamp="1595237021364" />
+    <state x="625" y="198" key="#jiguangyanxuan_manager_server_[tomcat7:run]" timestamp="1595236977757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="198" key="#jiguangyanxuan_manager_server_[tomcat7:run]/0.0.1920.1040@0.0.1920.1040" timestamp="1595236977757" />
+    <state x="625" y="198" key="#jiguangyanxuan_portal_server_[tomcat7:run]" timestamp="1595236901229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="198" key="#jiguangyanxuan_portal_server_[tomcat7:run]/0.0.1920.1040@0.0.1920.1040" timestamp="1595236901229" />
+    <state x="625" y="198" key="#jiguangyanxuan_search_server_[tomcat7:run]" timestamp="1595307838693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="198" key="#jiguangyanxuan_search_server_[tomcat7:run]/0.0.1920.1040@0.0.1920.1040" timestamp="1595307838693" />
+    <state x="625" y="198" key="#jiguangyanxuan_search_service_[tomcat7:run]" timestamp="1595310320002">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="198" key="#jiguangyanxuan_search_service_[tomcat7:run]/0.0.1920.1040@0.0.1920.1040" timestamp="1595310320002" />
+    <state x="625" y="198" key="#jiguangyanxuan_seller_server_[tomcat7:run]" timestamp="1595236856383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="198" key="#jiguangyanxuan_seller_server_[tomcat7:run]/0.0.1920.1040@0.0.1920.1040" timestamp="1595236856383" />
+    <state x="472" y="114" key="CommitChangelistDialog2" timestamp="1596112587795">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="472" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596112587795" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1596112546119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596112546119" />
+    <state x="690" y="158" key="FileChooserDialogImpl" timestamp="1595402460394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="158" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595402460394" />
+    <state width="1876" height="623" key="GridCell.Tab.0.bottom" timestamp="1596110080158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="623" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596110080158" />
+    <state width="1876" height="623" key="GridCell.Tab.0.center" timestamp="1596110080157">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="623" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596110080157" />
+    <state width="1876" height="623" key="GridCell.Tab.0.left" timestamp="1596110080157">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="623" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596110080157" />
+    <state width="1876" height="623" key="GridCell.Tab.0.right" timestamp="1596110080158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="623" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596110080158" />
+    <state width="1876" height="337" key="GridCell.Tab.1.bottom" timestamp="1595734132480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="337" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595734132480" />
+    <state width="1876" height="337" key="GridCell.Tab.1.center" timestamp="1595734132480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="337" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595734132480" />
+    <state width="1876" height="337" key="GridCell.Tab.1.left" timestamp="1595734132480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="337" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595734132480" />
+    <state width="1876" height="337" key="GridCell.Tab.1.right" timestamp="1595734132480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="337" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595734132480" />
+    <state x="440" y="198" key="IDE.errors.dialog" timestamp="1595476474236">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="198" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595476474236" />
+    <state x="377" y="97" key="Maven.ArtifactSearchDialog" timestamp="1592881188119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="377" y="97" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592881188119" />
+    <state x="338" y="168" width="1234" height="710" key="SettingsEditor" timestamp="1595476425513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="338" y="168" width="1234" height="710" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595476425513" />
+    <state x="762" y="300" key="chooseDestDirectoryDialog" timestamp="1595563388608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="762" y="300" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595563388608" />
+    <state x="593" y="308" key="com.intellij.ide.util.TipDialog" timestamp="1596112245919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="593" y="308" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596112245919" />
+    <state x="400" y="203" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1594621655579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="400" y="203" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1594621655579" />
+    <state x="588" y="222" width="744" height="596" key="find.popup" timestamp="1594779683349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="588" y="222" width="744" height="596" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594779683349" />
+    <state x="208" y="114" key="new project wizard" timestamp="1595308483492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="208" y="114" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1595308483492" />
+    <state x="642" y="88" key="refactoring.ChangeSignatureDialog" timestamp="1593005445008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="642" y="88" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593005445008" />
+    <state x="532" y="237" key="run.anything.popup" timestamp="1594987090057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594987090057" />
+    <state x="539" y="5" width="840" height="174" key="search.everywhere.popup" timestamp="1594987110432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="174" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594987110432" />
+    <state x="557" y="142" key="spring file set editor" timestamp="1592883050685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="142" key="spring file set editor/0.0.1920.1040@0.0.1920.1040" timestamp="1592883050685" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/jiguangyanxuan_common/src/main/java/com/itjiguang/yanxuan/common/utils/FastDFSClient.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jiguangyanxuan_common/src/test/java/Solution.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
